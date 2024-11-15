@@ -19,5 +19,11 @@ python sample_message_sender.py FILE IP PORT
 python sample_message_sender_loop.py FILE IP PORT
 ```
 
+- test_edit.py
 
+```
+# receive joint angles from unity in real time
+# need to change IP and port inside file and on visual studio
+python test_edit.py 
+```
 
